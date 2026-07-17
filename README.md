@@ -1,29 +1,36 @@
-<h1 align="center">Hi there, I'm Jasim Kareem 👋</h1>
+# Jasim Kareem Badawi
+### Senior AI & Software Architect | Technical Product Builder
+Basrah, Iraq | [github.com/prudctual](https://github.com/prudctual)
 
-<h3 align="center">Developer | Deep Thinker | Author of "مقالات للعقول الحرة"</h3>
+---
+
+Technical architect and product engineer specializing in high-performance distributed systems, security-hardened fintech integrations, neobanking APIs, and guardrail proxies for the agentic economy. Focuses on organizing complex software requirements into clean, minimal, and highly functional architectures.
+
+---
+
+### Core Expertise & Areas of Work
+
+* **Agentic Plumbing & AI Guardrails:** Designing budget proxy gateways and financial firewalls sitting between autonomous agents and LLM APIs to restrict runaway spend (Agmoney).
+* **Fintech & Local Banking Gateways:** Integrating regional payment service webhooks (Zain Cash, AsiaHawala, FastPay, Qi Card) and writing security remediation patches for double-spend attacks and RLS authorization bypasses (SumerSend).
+* **API-First Neobanking Protocols:** Developing agentic neobanking architectures supporting automated wallets, HITL transaction approvals, and rules-based spending frameworks (Bank of Agents).
+
+---
+
+### Technical Stack
+
+* **Languages & Edge Environments:** TypeScript, Node.js, Go, Python, Cloudflare Workers (Hono).
+* **Backend & Systems:** FastAPI, Express, RESTful APIs, WebSockets, Redis, BullMQ, Docker (Multi-container environments).
+* **Databases & Storage:** PostgreSQL, Supabase, Prisma ORM, Database optimization.
+* **Frontend & Design Systems:** React, TypeScript, Vite, CSS (Vanilla CSS, custom token architectures, responsive design).
+
+---
+
+### GitHub Metrics
 
 <p align="center">
-  <a href="https://prudctual.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prudctual&show_icons=true&theme=dark" alt="GitHub Metrics" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently building robust and intelligent agents, exploring the boundaries of AI, and diving deep into human behavior.
-- ✍️ I write profound analytical articles about philosophy, psychology, neuroscience, and human behavior, referencing the thoughts of giants like Dostoevsky, Jung, and Nietzsche on my highly successful blog [مقالات للعقول الحرة](https://prudctual.substack.com/).
-- ⚙️ I enjoy organizing chaotic structures into clean, minimal, and highly functional architectures.
-
-### 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, HTML/CSS
-- **Frameworks & Libs:** React, Next.js, Vite, Node.js
-- **Tools & Platforms:** Git, GitHub, Docker, Firebase, Supabase
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prudctual&show_icons=true&theme=radical" alt="Jasim's GitHub Stats" />
-</p>
-
----
-<p align="center"><i>"The intelligent man who is proud of his intelligence is like the condemned man who is proud of his large cell." — Simone Weil</i></p>
+*Copyright © 2026 Jasim Kareem. All rights reserved.*
