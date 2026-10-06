@@ -2,7 +2,7 @@ Jasim Kareem
 
 "he who has a why to live can bear almost any how." nietzsche
 
-i build payment systems, apis, and spend limits for ai agents. i try to keep the code small and easy to read.
+i focus on build payment systems, apis, and spend limits for ai agents. i try to keep the code small and easy to understand.
 
 projects
 
